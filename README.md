@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ibrahim Aldosari
+- 👀 I’m interested in Information Security
+- 🌱 I’m currently learning python, CCNA 200-301 from Cisco, and CS50 from Harvard
+- 💞️ I’m looking to collaborate on The development of the technical field in the Arab world
